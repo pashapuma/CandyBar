@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Leave empty if you don't want to show changelog date -->
+    <string name="changelog_date" translatable="false">September 10, 2022</string>
+
+    <!-- Changelog support html formatting
+    * <b> for Bold
+    * <i> for Italic
+    * <u> for Underline
+    * <a href="linkUrl">Link Text</a> for links -->
+    <string-array name="changelog">
+        <item>Remove Play Store check feature as play store no longer leaves any signature.</item>
+        <item>Targets Android 13</item>
+        <item>Updated Android Gradle Plugin and Gradle</item>
+        <item>Updated translations</item>
+        <item>Fixed icons not rendering in the request section</item>
+    </string-array>
+
+</resources>
