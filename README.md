@@ -1,4 +1,4 @@
-# CandyBar
+# CandyBar 
 [![](https://jitpack.io/v/pashapuma/candybar.svg)](https://jitpack.io/#pashapuma/candybar)
 [![Build Status](https://img.shields.io/github/workflow/status/zixpo/candybar/Android%20CI?style=flat-square)](https://github.com/zixpo/candybar/actions/workflows/android.yml)
 [![License](https://img.shields.io/github/license/zixpo/candybar?style=flat-square)](/LICENSE)
